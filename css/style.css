@@ -1,0 +1,38 @@
+* {
+    font-family: 'Bitter', serif;
+    font-size: 24px;
+    color: white;
+}
+ 
+body {
+    background-color: black;
+    background-image: url("../img/adventure-climb-landscape-2187629.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.container {
+    max-width: 500px;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;    
+}
+
+.rounded {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.name {
+    margin: 5px;
+    font-weight: bold;
+}
+
+.city {
+    font-size: 16px;
+}
+
